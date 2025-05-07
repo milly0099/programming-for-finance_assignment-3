@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#121212"/>
+  
+  <!-- Euro Symbol -->
+  <circle cx="400" cy="200" r="150" fill="none" stroke="#e50914" stroke-width="10"/>
+  <path d="M430,130 L370,130 C340,130 320,150 310,180 L450,180 M450,180 L450,210 L300,210 C300,240 320,270 370,270 L430,270" stroke="#e50914" stroke-width="15" fill="none"/>
+  
+  <!-- Confetti -->
+  <circle cx="200" cy="100" r="10" fill="#e50914"/>
+  <rect x="600" y="150" width="20" height="20" fill="#e50914" transform="rotate(45, 610, 160)"/>
+  <circle cx="150" cy="300" r="15" fill="#e50914"/>
+  <rect x="650" y="250" width="15" height="15" fill="#e50914" transform="rotate(30, 657, 257)"/>
+  <circle cx="500" cy="350" r="12" fill="#e50914"/>
+  <rect x="300" y="50" width="18" height="18" fill="#e50914" transform="rotate(15, 309, 59)"/>
+  <circle cx="700" cy="100" r="8" fill="#e50914"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial Black, sans-serif" font-size="40" fill="#e50914" text-anchor="middle">HEIST COMPLETE!</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="370" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">Financial Insights Successfully Stolen</text>
+</svg>

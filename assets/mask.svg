@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background - transparent -->
+  <rect width="400" height="400" fill="none"/>
+  
+  <!-- Salvador Dalí mask -->
+  <path d="M200,20 C100,20 50,100 50,200 C50,300 100,380 200,380 C300,380 350,300 350,200 C350,100 300,20 200,20 Z" fill="#e50914"/>
+  
+  <!-- Mask border -->
+  <path d="M200,30 C110,30 60,105 60,200 C60,295 110,370 200,370 C290,370 340,295 340,200 C340,105 290,30 200,30 Z" fill="none" stroke="#ffffff" stroke-width="3"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="140" cy="160" rx="30" ry="50" fill="#121212" stroke="#ffffff" stroke-width="3"/>
+  <ellipse cx="260" cy="160" rx="30" ry="50" fill="#121212" stroke="#ffffff" stroke-width="3"/>
+  
+  <!-- Mustache -->
+  <path d="M130,250 C170,280 230,280 270,250" fill="none" stroke="#121212" stroke-width="8"/>
+  
+  <!-- Eyebrows -->
+  <path d="M100,120 C130,100 150,110 170,120" fill="none" stroke="#121212" stroke-width="5"/>
+  <path d="M300,120 C270,100 250,110 230,120" fill="none" stroke="#121212" stroke-width="5"/>
+</svg>

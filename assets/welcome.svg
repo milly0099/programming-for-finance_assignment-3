@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#121212"/>
+  
+  <!-- Money Heist Mask -->
+  <path d="M400,80 C320,80 260,160 260,240 C260,320 320,360 400,360 C480,360 540,320 540,240 C540,160 480,80 400,80 Z" fill="#e50914" opacity="0.3"/>
+  <path d="M400,100 C330,100 280,170 280,240 C280,310 330,340 400,340 C470,340 520,310 520,240 C520,170 470,100 400,100 Z" fill="none" stroke="#e50914" stroke-width="5"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="340" cy="200" rx="25" ry="40" fill="#121212" stroke="#e50914" stroke-width="5"/>
+  <ellipse cx="460" cy="200" rx="25" ry="40" fill="#121212" stroke="#e50914" stroke-width="5"/>
+  
+  <!-- Mustache -->
+  <path d="M370,260 C390,280 410,280 430,260" fill="none" stroke="#e50914" stroke-width="5"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial Black, sans-serif" font-size="40" fill="#e50914" text-anchor="middle">LA CASA DE DATOS</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="390" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">The Financial Machine Learning Heist</text>
+</svg>
